@@ -1,0 +1,2 @@
+# LDAPLogAuthParser
+LDAP Log AuthParser
